@@ -1,3 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- 배포 후 실제 도메인을 설정하고 sitemap을 생성하세요. README 안내 참조 -->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://ghfflrha12-commits.github.io/living-cost-calculator/</loc></url>
+  <url><loc>https://ghfflrha12-commits.github.io/living-cost-calculator/about.html</loc></url>
+  <url><loc>https://ghfflrha12-commits.github.io/living-cost-calculator/contact.html</loc></url>
+  <url><loc>https://ghfflrha12-commits.github.io/living-cost-calculator/privacy.html</loc></url>
+  <url><loc>https://ghfflrha12-commits.github.io/living-cost-calculator/terms.html</loc></url>
+</urlset>
