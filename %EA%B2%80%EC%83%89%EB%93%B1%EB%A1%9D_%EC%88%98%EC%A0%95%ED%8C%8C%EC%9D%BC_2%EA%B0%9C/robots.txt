@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ghfflrha12-commits.github.io/living-cost-calculator/sitemap.xml
